@@ -7,7 +7,7 @@ export interface BillBoard {
 export interface Category {
 	id: string;
 	name: string;
-	billBoard: BillBoard;
+	billboard: BillBoard;
 }
 
 export interface Product {
